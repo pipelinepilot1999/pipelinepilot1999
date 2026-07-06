@@ -2,7 +2,7 @@
 
 **Bioinformatics Analyst / Computational Biologist** · MS Bioinformatics
 
-🟢 Open to Bioinformatics Analyst, Computational Biologist, and Bioinformatics Scientist roles — especially at academic cancer centers.
+Open to Bioinformatics Analyst, Computational Biologist, and Bioinformatics Scientist roles — especially at academic cancer centers.
 
 📧 sathvikappagana@gmail.com · [LinkedIn](https://linkedin.com/in/sathvik-appagana)
 
