@@ -2,13 +2,13 @@
 
 **Bioinformatics Analyst / Computational Biologist** · MS Bioinformatics
 
-Open to Bioinformatics Analyst, Computational Biologist, and Bioinformatics Scientist roles — especially at academic cancer centers.
+Open to Computational Biologist, Bioinformatics Analyst, Bioinformatics Engineer and Bioinfromatics Scientist roles
 
 📧 sathvikappagana@gmail.com · [LinkedIn](https://linkedin.com/in/sathvik-appagana)
 
 ---
 
-I build reproducible, defensible bioinformatics pipelines — each validated against known biology as a positive control, honest about where methods fail instead of smoothing it over, and treating a well-measured null result as a real finding.
+I work across cancer genomics (bulk, single-cell, spatial, somatic variants) and germline variant interpretation, with pipelines built in Nextflow and Snakemake, containerized with Docker, and run on HPC and AWS.
 
 ## Breast cancer, at three resolutions
 
