@@ -85,7 +85,7 @@ flowchart LR
 
 ---
 
-## 🔬 Theme 2: Measuring what methods actually add
+## Theme 2: Measuring what methods actually add
 
 These projects ask a harder question than "does the pipeline run?": **does the method deliver what it claims when compared against the simplest honest baseline?**
 
@@ -158,7 +158,7 @@ ONT phased methylation recovers imprinting at known chr20 DMRs as a positive con
 
 ---
 
-## 🛠️ Theme 3: Pipelines & data engineering
+## Theme 3: Pipelines & data engineering
 
 | Project | Highlights | Stack |
 |---|---|---|
