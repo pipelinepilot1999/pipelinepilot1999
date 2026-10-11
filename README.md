@@ -8,7 +8,6 @@
 
 [![Email](https://img.shields.io/badge/Email-sathvikappagana%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sathvikappagana@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sathvik--appagana-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathvik-appagana)
-![Open to work](https://img.shields.io/badge/Open%20to-Computational%20Biologist%20%C2%B7%20Bioinformatics%20Analyst%20%2F%20Engineer%20%2F%20Scientist-2ea44f?style=flat-square)
 
 </div>
 
