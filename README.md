@@ -17,12 +17,6 @@
 
 I'm a bioinformatician working across **cancer genomics** (bulk, single-cell, spatial, somatic variants) and **germline variant interpretation**. I build pipelines in **Nextflow** and **Snakemake**, containerize them with **Docker**, and run them on **HPC (SLURM)** and **AWS**.
 
-The thing I care about most is the evaluation. A pipeline that runs isn't the same as a method that works. In most of my projects the deliverable is a benchmark: a negative control, a baseline the method has to beat, and numbers that are regenerated from the repo's own results rather than typed by hand.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **What I bring**
 - End-to-end NGS analysis: FASTQ → alignment → calling/quantification → biology
 - Bulk RNA-seq, scRNA-seq, spatial transcriptomics, ATAC-seq
@@ -30,21 +24,6 @@ The thing I care about most is the evaluation. A pipeline that runs isn't the sa
 - ACMG/AMP classification and clinical knowledge bases
 - Leakage-controlled ML benchmarking and statistics
 - Relational data modelling and SQL performance work
-
-</td>
-<td width="50%" valign="top">
-
-**How I work**
-- Every claim gets a positive or negative control
-- Baselines first: if a lookup table wins, I say so
-- Negative results get reported, not tuned away
-- Pinned environments, data-download scripts, fixed seeds
-- Deviations from the original plan are written down
-- READMEs say what the project *doesn't* show
-
-</td>
-</tr>
-</table>
 
 ---
 
